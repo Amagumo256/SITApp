@@ -1,0 +1,4971 @@
+[
+    {
+        "type": "MetaData",
+        "lastId": 2904
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "1301",
+        "name": "経済学",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": 1,
+                "period": 3,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "4号館4205教室"
+        },
+        "professor": "山澤　浩司",
+        "credit": 2,
+        "division": "共通教養",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 265
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "1302",
+        "name": "民俗学",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": 1,
+                "period": 3,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "2号館2303教室"
+        },
+        "professor": "加藤　秀雄",
+        "credit": 2,
+        "division": "",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 266
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "1303",
+        "name": "集合と論理",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": 1,
+                "period": 3,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "4号館4202教室"
+        },
+        "professor": "廣瀬　三平",
+        "credit": 2,
+        "division": "共通・サイエンス",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 267
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "1101",
+        "name": "総合導入演習（学術・情報）",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": 1,
+                "period": 1,
+                "duration": 2
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "齋藤記念館1F大教室"
+        },
+        "professor": "櫻木　新",
+        "credit": 2,
+        "division": "共通・エンジニアリング",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 268
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "1402",
+        "name": "デザイン工学演習",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": 1,
+                "period": 4,
+                "duration": 2
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "齋藤記念館1F大教室"
+        },
+        "professor": "久米　寿明",
+        "credit": 2,
+        "division": "共通・デザイン",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 269
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "1401",
+        "name": "芝浦工業大学通論",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": 1,
+                "period": 4,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "2号館2102教室"
+        },
+        "professor": "榊原　暢久",
+        "credit": 2,
+        "division": "全学共通科目",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 270
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "2101",
+        "name": "工学倫理",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": 2,
+                "period": 1,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "2号館2103教室"
+        },
+        "professor": "櫻木　新",
+        "credit": 2,
+        "division": "共通教養",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 271
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "2309",
+        "name": "教育の近現代史",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": 2,
+                "period": 3,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "5号館5542教室"
+        },
+        "professor": "田中　友佳子",
+        "credit": 2,
+        "division": "共通教養",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 272
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "2502",
+        "name": "教育原論",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": 2,
+                "period": 5,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "2号館2103教室"
+        },
+        "professor": "谷田川　ルミ",
+        "credit": 2,
+        "division": "共通教養",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 273
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "3101",
+        "name": "総合英語",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": 2,
+                "period": 5,
+                "duration": 1
+            },
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": 3,
+                "period": 1,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "2号館2205教室"
+        },
+        "professor": "櫻木　新",
+        "credit": 2,
+        "division": "外国語（英語）",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 274
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "2102",
+        "name": "化学",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": 2,
+                "period": 1,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "2号館2401教室"
+        },
+        "professor": "石渡　明弘",
+        "credit": 2,
+        "division": "共通・サイエンス",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 275
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "2201",
+        "name": "微積分学１",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": 2,
+                "period": 2,
+                "duration": 1
+            },
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": 5,
+                "period": 2,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "3号館3401教室"
+        },
+        "professor": "廣瀬　三平",
+        "credit": 1,
+        "division": "共通・サイエンス",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 276
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "2301",
+        "name": "線形代数１",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": 2,
+                "period": 3,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "2号館2206教室"
+        },
+        "professor": "山澤　浩司",
+        "credit": 1,
+        "division": "共通・サイエンス",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 277
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "2501",
+        "name": "集合と論理",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": 2,
+                "period": 5,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "4号館4202教室"
+        },
+        "professor": "廣瀬　三平",
+        "credit": 2,
+        "division": "共通・サイエンス",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 278
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "2202",
+        "name": "微積分学１",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": 2,
+                "period": 2,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "2号館2303教室"
+        },
+        "professor": "中川　貴裕",
+        "credit": 1,
+        "division": "",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 279
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "2302",
+        "name": "線形代数１",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": 2,
+                "period": 3,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "2号館2205教室"
+        },
+        "professor": "廣瀬　三平",
+        "credit": 1,
+        "division": "",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 280
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "2203",
+        "name": "微積分学１",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": 2,
+                "period": 2,
+                "duration": 1
+            },
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": 5,
+                "period": 3,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "3号館3402教室"
+        },
+        "professor": "堀内　智広",
+        "credit": 1,
+        "division": "",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 281
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "2303",
+        "name": "線形代数１",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": 2,
+                "period": 3,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "2号館2204教室"
+        },
+        "professor": "堀内　智広",
+        "credit": 1,
+        "division": "",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 282
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "2402",
+        "name": "デザイン工学入門",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": 2,
+                "period": 4,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "2号館2307教室"
+        },
+        "professor": "新井　竜治",
+        "credit": 2,
+        "division": "共通・デザイン",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 283
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "2401",
+        "name": "芝浦工業大学通論",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": 2,
+                "period": 4,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "2号館2402教室"
+        },
+        "professor": "榊原　暢久",
+        "credit": 2,
+        "division": "全学共通科目",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 284
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "3501",
+        "name": "教育心理学",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": 3,
+                "period": 5,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "2号館2102教室"
+        },
+        "professor": "岡田　佳子",
+        "credit": 2,
+        "division": "共通教養",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 285
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "3201",
+        "name": "総合英語",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": 3,
+                "period": 2,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "3号館3207教室"
+        },
+        "professor": "本久　郁子",
+        "credit": 2,
+        "division": "外国語（英語）",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 286
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "3301",
+        "name": "総合英語",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": 3,
+                "period": 3,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "3号館3207教室"
+        },
+        "professor": "本久　郁子",
+        "credit": 2,
+        "division": "外国語（英語）",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 287
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "3202",
+        "name": "総合英語",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": 3,
+                "period": 2,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "3号館3308教室"
+        },
+        "professor": "伊藤　孝一郎",
+        "credit": 2,
+        "division": "",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 288
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "3302",
+        "name": "総合英語",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": 3,
+                "period": 3,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "3号館3308教室"
+        },
+        "professor": "鈴木　朝美",
+        "credit": 2,
+        "division": "",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 289
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "3303",
+        "name": "総合英語",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": 3,
+                "period": 3,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "2号館2207教室"
+        },
+        "professor": "櫻木　新",
+        "credit": 2,
+        "division": "",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 290
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "3402",
+        "name": "デザイン基礎表現演習",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": 3,
+                "period": 4,
+                "duration": 2
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "齋藤記念館1F大教室"
+        },
+        "professor": "増成　和敏",
+        "credit": 2,
+        "division": "共通・デザイン",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 291
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "3401",
+        "name": "技術経営入門",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": 3,
+                "period": 4,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "2号館2103教室"
+        },
+        "professor": "加藤　恭子",
+        "credit": 2,
+        "division": "全学共通科目",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 292
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "4102",
+        "name": "体育実技",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": 4,
+                "period": 1,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "5号館5341教室"
+        },
+        "professor": "廣瀬　文彦",
+        "credit": 1,
+        "division": "共通教養",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 293
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "4202",
+        "name": "体育講義",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": 4,
+                "period": 2,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "5号館5241教室"
+        },
+        "professor": "廣瀬　文彦",
+        "credit": 2,
+        "division": "共通教養",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 294
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "4301",
+        "name": "体育実技",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": 4,
+                "period": 3,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "4号館4203教室"
+        },
+        "professor": "藤村　武",
+        "credit": 1,
+        "division": "共通教養",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 295
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "4401",
+        "name": "哲学（存在と心）",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": 4,
+                "period": 4,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "2号館2202教室"
+        },
+        "professor": "櫻木　新",
+        "credit": 2,
+        "division": "共通教養",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 296
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "4501",
+        "name": "産学・地域連携プロジェクト",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": 4,
+                "period": 5,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "2号館2201教室"
+        },
+        "professor": "中村　朝夫",
+        "credit": 2,
+        "division": "共通教養",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 297
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "4103",
+        "name": "組織心理学",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": 4,
+                "period": 1,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "2号館2201教室"
+        },
+        "professor": "加藤　恭子",
+        "credit": 2,
+        "division": "4103加藤　恭子組織心理学大宮地区2単位2号館2201教室",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 298
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "4203",
+        "name": "科学技術論",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": 4,
+                "period": 2,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "4号館4104教室"
+        },
+        "professor": "櫻木　新",
+        "credit": 2,
+        "division": "4103加藤　恭子組織心理学大宮地区2単位2号館2201教室",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 299
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "4402",
+        "name": "近現代史",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": 4,
+                "period": 4,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "4号館4104教室"
+        },
+        "professor": "大曽根　悠",
+        "credit": 2,
+        "division": "4103加藤　恭子組織心理学大宮地区2単位2号館2201教室",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 300
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "4204",
+        "name": "プレゼンテーション",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": 4,
+                "period": 2,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "4号館4201教室"
+        },
+        "professor": "加藤　恭子",
+        "credit": 2,
+        "division": "",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 301
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "4101",
+        "name": "基礎中国語",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": 4,
+                "period": 1,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "4号館4205教室"
+        },
+        "professor": "黄　斌",
+        "credit": 2,
+        "division": "外国語（その他）",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 302
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "4201",
+        "name": "基礎中国語",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": 4,
+                "period": 2,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "4号館4205教室"
+        },
+        "professor": "黄　斌",
+        "credit": 2,
+        "division": "外国語（その他）",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 303
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "4302",
+        "name": "基礎力学",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": 4,
+                "period": 3,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "3号館3205教室"
+        },
+        "professor": "吉原　正一郎",
+        "credit": 2,
+        "division": "共通・サイエンス",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 304
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "4303",
+        "name": "基礎力学",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": 4,
+                "period": 3,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "4号館4201教室"
+        },
+        "professor": "鈴木　敏一",
+        "credit": 2,
+        "division": "",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 305
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "4304",
+        "name": "基礎力学",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": 4,
+                "period": 3,
+                "duration": 2
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "2号館2308教室"
+        },
+        "professor": "田邉　匡生",
+        "credit": 2,
+        "division": "",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 306
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "5101",
+        "name": "体育講義",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": 5,
+                "period": 1,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "4号館4202教室"
+        },
+        "professor": "奥山　慎也",
+        "credit": 2,
+        "division": "共通教養",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 307
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "5402",
+        "name": "環境学",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": 5,
+                "period": 4,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "4号館4103教室"
+        },
+        "professor": "山﨑　淳也",
+        "credit": 2,
+        "division": "共通教養",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 308
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "5501",
+        "name": "認知心理学",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": 5,
+                "period": 5,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "2号館2201教室"
+        },
+        "professor": "大隅　尚広",
+        "credit": 2,
+        "division": "共通教養",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 309
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "5401",
+        "name": "ダイバーシティ入門",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": 5,
+                "period": 4,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "2号館2402教室"
+        },
+        "professor": "小嶋　美代子",
+        "credit": 2,
+        "division": "全学共通科目",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 310
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "6201",
+        "name": "基礎表現演習１",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        2
+                    ]
+                },
+                "dayOfWeek": 6,
+                "period": 2,
+                "duration": 4
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "3号館3208教室"
+        },
+        "professor": "蘆澤　雄亮",
+        "credit": 2,
+        "division": "共通・デザイン",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 311
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "9001",
+        "name": "海外工学英語研修",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": -1,
+                "period": 1,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": null
+        },
+        "professor": "山崎　憲一",
+        "credit": 1,
+        "division": "共通教養",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 312
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "9002",
+        "name": "グローバルＰＢＬ１",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": -1,
+                "period": 2,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": null
+        },
+        "professor": "櫻木　新",
+        "credit": 1,
+        "division": "共通教養",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 313
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "9003",
+        "name": "グローバルＰＢＬ２",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": -1,
+                "period": 3,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": null
+        },
+        "professor": "櫻木　新",
+        "credit": 1,
+        "division": "共通教養",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 314
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "9004",
+        "name": "グローバルＰＢＬ３",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": -1,
+                "period": 4,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": null
+        },
+        "professor": "櫻木　新",
+        "credit": 1,
+        "division": "共通教養",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 315
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "9007",
+        "name": "地域志向型デザイン",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": -1,
+                "period": 5,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": null
+        },
+        "professor": "山崎　憲一",
+        "credit": 1,
+        "division": "共通教養",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 316
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "9094",
+        "name": "教職論",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": -1,
+                "period": 6,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": null
+        },
+        "professor": "牧下　英世",
+        "credit": 2,
+        "division": "共通教養",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 317
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "9097",
+        "name": "教育原論",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": -1,
+                "period": 1,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": null
+        },
+        "professor": "木田　竜太郎",
+        "credit": 2,
+        "division": "9097木田　竜太郎教育原論大宮地区2単位教職科目/工シスデザ合併　夏期集中",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 318
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "9005",
+        "name": "英語圏の言語と文化",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": -1,
+                "period": 1,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": null
+        },
+        "professor": "山崎　憲一",
+        "credit": 2,
+        "division": "外国語（英語）",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 319
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "9006",
+        "name": "英語圏の言語と文化（短期プログラム）",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": -1,
+                "period": 2,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": null
+        },
+        "professor": "山崎　憲一",
+        "credit": 1,
+        "division": "外国語（英語）",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 320
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "9009",
+        "name": "社会ボランティア実習（東京2020オリンピック・パラリンピック）",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        1,
+                        2
+                    ]
+                },
+                "dayOfWeek": -1,
+                "period": 1,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "前期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": null
+        },
+        "professor": "志村　秀明",
+        "credit": 1,
+        "division": "全学共通科目",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 321
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "1124",
+        "name": "人間関係論",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": 1,
+                "period": 1,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "豊洲地区",
+            "place": "教室棟407教室"
+        },
+        "professor": "岡田　佳子",
+        "credit": 2,
+        "division": "共通教養",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2842
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "1423",
+        "name": "教育の近現代史",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": 1,
+                "period": 4,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "4号館4103教室"
+        },
+        "professor": "木田　竜太郎",
+        "credit": 2,
+        "division": "共通教養",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2843
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "1522",
+        "name": "生徒・進路指導論",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": 1,
+                "period": 5,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "4号館4205教室"
+        },
+        "professor": "谷田川　ルミ",
+        "credit": 2,
+        "division": "共通教養",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2844
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "1121",
+        "name": "確率統計",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": 1,
+                "period": 1,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "2号館2301教室"
+        },
+        "professor": "廣瀬　三平",
+        "credit": 2,
+        "division": "共通・サイエンス",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2845
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "1221",
+        "name": "ものづくり概論",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": 1,
+                "period": 2,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "齋藤記念館1F大教室"
+        },
+        "professor": "安齋　正博",
+        "credit": 2,
+        "division": "共通・エンジニアリング",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2846
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "1321",
+        "name": "統計学演習",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": 1,
+                "period": 3,
+                "duration": 2
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "2号館2101教室"
+        },
+        "professor": "廣瀬　三平",
+        "credit": 2,
+        "division": "共通・エンジニアリング",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2847
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "1422",
+        "name": "造形基礎演習",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": 1,
+                "period": 4,
+                "duration": 2
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "齋藤記念館1F大教室"
+        },
+        "professor": "蘆澤　雄亮",
+        "credit": 2,
+        "division": "共通・デザイン",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2848
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "1322",
+        "name": "プロダクトデザイン",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": 1,
+                "period": 3,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "4号館4104教室"
+        },
+        "professor": "未定",
+        "credit": 2,
+        "division": "専門",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2849
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "1421",
+        "name": "芝浦工業大学通論",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": 1,
+                "period": 4,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "3号館3303教室"
+        },
+        "professor": "榊原　暢久",
+        "credit": 2,
+        "division": "全学共通科目",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2850
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "2521",
+        "name": "社会学／社会情報学",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": 2,
+                "period": 5,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "4号館4204教室"
+        },
+        "professor": "山崎　敬一",
+        "credit": 2,
+        "division": "共通教養",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2851
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "2221",
+        "name": "微分方程式",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": 2,
+                "period": 2,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "2号館2208教室"
+        },
+        "professor": "山澤　浩司",
+        "credit": 2,
+        "division": "共通・サイエンス",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2852
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "2321",
+        "name": "微積分学２",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": 2,
+                "period": 3,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "2号館2208教室"
+        },
+        "professor": "山澤　浩司",
+        "credit": 2,
+        "division": "共通・サイエンス",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2853
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "2422",
+        "name": "Differential and Integral Calculus 1",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": 2,
+                "period": 4,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "2号館2208教室"
+        },
+        "professor": "山澤　浩司",
+        "credit": 1,
+        "division": "共通・サイエンス",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2854
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "2222",
+        "name": "微分方程式",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": 2,
+                "period": 2,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "2号館2207教室"
+        },
+        "professor": "廣瀬　三平",
+        "credit": 2,
+        "division": "",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2855
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "2322",
+        "name": "微積分学２",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": 2,
+                "period": 3,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "2号館2207教室"
+        },
+        "professor": "廣瀬　三平",
+        "credit": 2,
+        "division": "",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2856
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "2223",
+        "name": "微分方程式",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": 2,
+                "period": 2,
+                "duration": 1
+            },
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": 5,
+                "period": 3,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "2号館2206教室"
+        },
+        "professor": "中川　貴裕",
+        "credit": 2,
+        "division": "",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2857
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "2323",
+        "name": "微積分学２",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": 2,
+                "period": 3,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "2号館2206教室"
+        },
+        "professor": "中川　貴裕",
+        "credit": 2,
+        "division": "",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2858
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "2121",
+        "name": "電気回路",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": 2,
+                "period": 1,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "2号館2102教室"
+        },
+        "professor": "島田　明",
+        "credit": 2,
+        "division": "共通・エンジニアリング",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2859
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "2423",
+        "name": "情報処理演習",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": 2,
+                "period": 4,
+                "duration": 2
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "2号館PC実習室1"
+        },
+        "professor": "佐々木　毅",
+        "credit": 2,
+        "division": "共通・エンジニアリング",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2860
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "2421",
+        "name": "芝浦工業大学通論",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": 2,
+                "period": 4,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "3号館3303教室"
+        },
+        "professor": "榊原　暢久",
+        "credit": 2,
+        "division": "全学共通科目",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2861
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "3421",
+        "name": "現代文芸論",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": 3,
+                "period": 4,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "4号館4104教室"
+        },
+        "professor": "宇佐　教子",
+        "credit": 2,
+        "division": "共通教養",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2862
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "3521",
+        "name": "教育心理学",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": 3,
+                "period": 5,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "2号館2102教室"
+        },
+        "professor": "岡田　佳子",
+        "credit": 2,
+        "division": "共通教養",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2863
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "3121",
+        "name": "英語表現",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": 3,
+                "period": 1,
+                "duration": 2
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "3号館3303教室"
+        },
+        "professor": "櫻木　新",
+        "credit": 2,
+        "division": "外国語（英語）",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2864
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "3321",
+        "name": "英語表現",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": 3,
+                "period": 2,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "3号館3304教室"
+        },
+        "professor": "本久　郁子",
+        "credit": 2,
+        "division": "外国語（英語）",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2865
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "3221",
+        "name": "英語表現",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": 3,
+                "period": 2,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "3号館3304教室"
+        },
+        "professor": "本久　郁子",
+        "credit": 2,
+        "division": "",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2866
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "3322",
+        "name": "英語表現",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": 3,
+                "period": 3,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "3号館3205教室"
+        },
+        "professor": "鈴木　朝美",
+        "credit": 2,
+        "division": "",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2867
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "3222",
+        "name": "英語表現",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": 3,
+                "period": 2,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "3号館3305教室"
+        },
+        "professor": "伊藤　孝一郎",
+        "credit": 2,
+        "division": "",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2868
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "3323",
+        "name": "英語表現",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": 3,
+                "period": 3,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "3号館3303教室"
+        },
+        "professor": "櫻木　新",
+        "credit": 2,
+        "division": "",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2869
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "3422",
+        "name": "情報表現基礎演習",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": 3,
+                "period": 4,
+                "duration": 2
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "4号館4103教室"
+        },
+        "professor": "日髙　杏子",
+        "credit": 2,
+        "division": "共通・デザイン",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2870
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "4122",
+        "name": "美学・美術史",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": 4,
+                "period": 1,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "4号館4103教室"
+        },
+        "professor": "未定",
+        "credit": 2,
+        "division": "共通教養",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2871
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "4221",
+        "name": "体育講義",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": 4,
+                "period": 2,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "4号館4202教室"
+        },
+        "professor": "廣瀬　文彦",
+        "credit": 2,
+        "division": "共通教養",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2872
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "4321",
+        "name": "体育実技",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": 4,
+                "period": 3,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "大宮体育施設"
+        },
+        "professor": "藤村　武",
+        "credit": 1,
+        "division": "共通教養",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2873
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "4421",
+        "name": "哲学（知識と言語）",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": 4,
+                "period": 4,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "4号館4203教室"
+        },
+        "professor": "菅崎　香乃",
+        "credit": 2,
+        "division": "共通教養",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2874
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "4521",
+        "name": "比較文化論",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": 4,
+                "period": 5,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "4号館4202教室"
+        },
+        "professor": "髙橋　節子",
+        "credit": 2,
+        "division": "共通教養",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2875
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "4222",
+        "name": "企業倫理",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": 4,
+                "period": 2,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "2号館2101教室"
+        },
+        "professor": "櫻木　新",
+        "credit": 2,
+        "division": "",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2876
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "4322",
+        "name": "経営学",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": 4,
+                "period": 3,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "4号館4103教室"
+        },
+        "professor": "加藤　恭子",
+        "credit": 2,
+        "division": "",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2877
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "4423",
+        "name": "人間関係論",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": 4,
+                "period": 4,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "2号館2306教室"
+        },
+        "professor": "岡田　佳子",
+        "credit": 2,
+        "division": "",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2878
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "4226",
+        "name": "教育原論",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": 4,
+                "period": 2,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "5号館5441教室"
+        },
+        "professor": "田中　友佳子",
+        "credit": 2,
+        "division": "",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2879
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "4121",
+        "name": "中国語表現",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": 4,
+                "period": 1,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "4号館4203教室"
+        },
+        "professor": "黄　斌",
+        "credit": 2,
+        "division": "外国語（その他）",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2880
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "4223",
+        "name": "エコプロセス・エコデザイン",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": 4,
+                "period": 2,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "2号館2401教室"
+        },
+        "professor": "原田　幸明",
+        "credit": 2,
+        "division": "共通・エンジニアリング",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2881
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "4422",
+        "name": "統計学演習",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": 4,
+                "period": 4,
+                "duration": 2
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "4号館4205教室"
+        },
+        "professor": "加藤　恭子",
+        "credit": 2,
+        "division": "共通・エンジニアリング",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2882
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "5121",
+        "name": "行動科学",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": 5,
+                "period": 1,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "2号館2201教室"
+        },
+        "professor": "大隅　尚広",
+        "credit": 2,
+        "division": "共通教養",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2883
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "5321",
+        "name": "法学",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": 5,
+                "period": 3,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "2号館2102教室"
+        },
+        "professor": "鈴木　陽子",
+        "credit": 2,
+        "division": "共通教養",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2884
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "5422",
+        "name": "日本国憲法",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": 5,
+                "period": 4,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "2号館2102教室"
+        },
+        "professor": "鈴木　陽子",
+        "credit": 2,
+        "division": "共通教養",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2885
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "5423",
+        "name": "エコロジー",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": 5,
+                "period": 4,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "4号館4103教室"
+        },
+        "professor": "山﨑　淳也",
+        "credit": 2,
+        "division": "",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2886
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "5221",
+        "name": "線形代数２",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": 5,
+                "period": 2,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "2号館2207教室"
+        },
+        "professor": "堀辺　忠志",
+        "credit": 2,
+        "division": "共通・サイエンス",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2887
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "5424",
+        "name": "物理学（波動・熱）",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": 5,
+                "period": 4,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "2号館2205教室"
+        },
+        "professor": "鈴木　敏一",
+        "credit": 2,
+        "division": "共通・サイエンス",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2888
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "5222",
+        "name": "線形代数２",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": 5,
+                "period": 2,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "2号館2205教室"
+        },
+        "professor": "未定",
+        "credit": 2,
+        "division": "",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2889
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "5322",
+        "name": "力学概論",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": 5,
+                "period": 3,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "2号館2205教室"
+        },
+        "professor": "鈴木　敏一",
+        "credit": 2,
+        "division": "",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2890
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "5223",
+        "name": "線形代数２",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": 5,
+                "period": 2,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "2号館2206教室"
+        },
+        "professor": "未定",
+        "credit": 2,
+        "division": "",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2891
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "5521",
+        "name": "デザイン史",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": 5,
+                "period": 5,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "齋藤記念館1F大教室"
+        },
+        "professor": "新井　竜治",
+        "credit": 2,
+        "division": "共通・デザイン",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2892
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "5421",
+        "name": "ダイバーシティ入門",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": 5,
+                "period": 4,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "2号館2206教室"
+        },
+        "professor": "小嶋　美代子",
+        "credit": 2,
+        "division": "全学共通科目",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2893
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "6122",
+        "name": "教育相談論",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": 6,
+                "period": 1,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "2号館2101教室"
+        },
+        "professor": "岡田　佳子",
+        "credit": 2,
+        "division": "共通教養",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2894
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "6222",
+        "name": "教育相談論",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": 6,
+                "period": 2,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "2号館2101教室"
+        },
+        "professor": "岡田　佳子",
+        "credit": 2,
+        "division": "共通教養",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2895
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "6221",
+        "name": "形状創製基礎実習",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3
+                    ]
+                },
+                "dayOfWeek": 6,
+                "period": 2,
+                "duration": 4
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "3号館3208教室"
+        },
+        "professor": "安齋　正博",
+        "credit": 2,
+        "division": "共通・エンジニアリング",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2896
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "6121",
+        "name": "基礎表現演習２",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        4
+                    ]
+                },
+                "dayOfWeek": 6,
+                "period": 1,
+                "duration": 4
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": "齋藤記念館7202教室"
+        },
+        "professor": "増成　和敏",
+        "credit": 2,
+        "division": "共通・デザイン",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2897
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "9051",
+        "name": "海外工学英語研修",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": -1,
+                "period": 1,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": null
+        },
+        "professor": "山崎　憲一",
+        "credit": 1,
+        "division": "共通教養",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2898
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "9052",
+        "name": "グローバルＰＢＬ１",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": -1,
+                "period": 2,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": null
+        },
+        "professor": "櫻木　新",
+        "credit": 1,
+        "division": "共通教養",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2899
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "9053",
+        "name": "グローバルＰＢＬ２",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": -1,
+                "period": 3,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": null
+        },
+        "professor": "櫻木　新",
+        "credit": 1,
+        "division": "共通教養",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2900
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "9054",
+        "name": "グローバルＰＢＬ３",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": -1,
+                "period": 4,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": null
+        },
+        "professor": "櫻木　新",
+        "credit": 1,
+        "division": "共通教養",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2901
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "9057",
+        "name": "地域志向型デザイン",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": -1,
+                "period": 5,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": null
+        },
+        "professor": "山崎　憲一",
+        "credit": 1,
+        "division": "共通教養",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2902
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "9055",
+        "name": "英語圏の言語と文化",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": -1,
+                "period": 1,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": null
+        },
+        "professor": "山崎　憲一",
+        "credit": 2,
+        "division": "外国語（英語）",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2903
+    },
+    {
+        "type": "LectureData",
+        "timetableId": "9056",
+        "name": "英語圏の言語と文化（短期プログラム）",
+        "year": "2021",
+        "time": [
+            {
+                "term": {
+                    "type": "quater",
+                    "value": [
+                        3,
+                        4
+                    ]
+                },
+                "dayOfWeek": -1,
+                "period": 2,
+                "duration": 1
+            }
+        ],
+        "apply": {
+            "faculty": "デザイン工学部",
+            "department": "デザイン工学科",
+            "grade": "1",
+            "term_str": "後期"
+        },
+        "location": {
+            "distinct": "大宮地区",
+            "place": null
+        },
+        "professor": "山崎　憲一",
+        "credit": 1,
+        "division": "外国語（英語）",
+        "style": {
+            "isLive": false,
+            "isOndemand": false,
+            "isFace2Face": false,
+            "isOther": false
+        },
+        "hasDocuments": false,
+        "id": 2904
+    }
+]

@@ -1,0 +1,756 @@
+{
+    "faculty": [
+        {
+            "type": "MetaData",
+            "discription": "",
+            "lastId": 4
+        },
+        {
+            "id": 1,
+            "type": "FacultyData",
+            "code": "A",
+            "name": {
+                "original": "工学部",
+                "ja": {
+                    "full": "工学部"
+                },
+                "code": "A"
+            },
+            "departments": [
+                {
+                    "type": "DepartmentData",
+                    "id": 1
+                },
+                {
+                    "type": "DepartmentData",
+                    "id": 2
+                },
+                {
+                    "type": "DepartmentData",
+                    "id": 3
+                },
+                {
+                    "type": "DepartmentData",
+                    "id": 4
+                },
+                {
+                    "type": "DepartmentData",
+                    "id": 5
+                },
+                {
+                    "type": "DepartmentData",
+                    "id": 6
+                },
+                {
+                    "type": "DepartmentData",
+                    "id": 7
+                },
+                {
+                    "type": "DepartmentData",
+                    "id": 8
+                },
+                {
+                    "type": "DepartmentData",
+                    "id": 9
+                },
+                {
+                    "type": "DepartmentData",
+                    "id": 10
+                },
+                {
+                    "type": "DepartmentData",
+                    "id": 11
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "type": "FacultyData",
+            "code": "B",
+            "name": {
+                "original": "システム理工学部",
+                "ja": {
+                    "full": "システム理工学部",
+                    "short": [
+                        "システム理工",
+                        "シス理"
+                    ]
+                },
+                "code": "B"
+            },
+            "history": [
+                {
+                    "original": "システム工学部"
+                }
+            ],
+            "departments": [
+                {
+                    "type": "DepartmentData",
+                    "id": 12
+                },
+                {
+                    "type": "DepartmentData",
+                    "id": 13
+                },
+                {
+                    "type": "DepartmentData",
+                    "id": 14
+                },
+                {
+                    "type": "DepartmentData",
+                    "id": 15
+                },
+                {
+                    "type": "DepartmentData",
+                    "id": 16
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "type": "FacultyData",
+            "code": "C",
+            "name": {
+                "original": "デザイン工学部",
+                "ja": {
+                    "full": "デザイン工学部",
+                    "short": [
+                        "デザイン工",
+                        "デザイン",
+                        "デザ工"
+                    ]
+                },
+                "code": "C"
+            },
+            "departments": [
+                {
+                    "type": "DepartmentData",
+                    "id": 17
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "type": "FacultyData",
+            "code": "D",
+            "name": {
+                "original": "建築学部",
+                "ja": {
+                    "full": "建築学部",
+                    "short": [
+                        "建築"
+                    ]
+                },
+                "code": "D"
+            },
+            "departments": [
+                {
+                    "type": "DepartmentData",
+                    "id": 18
+                }
+            ]
+        }
+    ],
+    "department": [
+        {
+            "type": "MetaData",
+            "discription": "",
+            "lastId": 18
+        },
+        {
+            "id": 1,
+            "type": "DepartmentData",
+            "code": "AA",
+            "name": {
+                "original": "機械工学科",
+                "ja": {
+                    "full": "機械工学科",
+                    "short": [
+                        "機械工",
+                        "機械"
+                    ]
+                },
+                "code": "AA"
+            },
+            "faculty": {
+                "type": "FacultyData",
+                "id": 1
+            }
+        },
+        {
+            "id": 2,
+            "type": "DepartmentData",
+            "code": "AB",
+            "name": {
+                "original": "機械機能工学科",
+                "ja": {
+                    "full": "機械機能工学科",
+                    "short": [
+                        "機械機能工",
+                        "機能工",
+                        "機能"
+                    ]
+                },
+                "history": [
+                    {
+                        "name": {
+                            "original": "機械工学第二学科"
+                        }
+                    }
+                ],
+                "code": "AB"
+            },
+            "faculty": {
+                "type": "FacultyData",
+                "id": 1
+            }
+        },
+        {
+            "id": 3,
+            "type": "DepartmentData",
+            "code": "AC",
+            "name": {
+                "original": "材料工学科",
+                "ja": {
+                    "full": "材料工学科",
+                    "short": [
+                        "材料工",
+                        "材料"
+                    ]
+                },
+                "history": [
+                    {
+                        "original": "金属工学科"
+                    }
+                ],
+                "code": "AC"
+            },
+            "faculty": {
+                "type": "FacultyData",
+                "id": 1
+            }
+        },
+        {
+            "id": 4,
+            "type": "DepartmentData",
+            "code": "AD",
+            "name": {
+                "original": "応用化学科",
+                "ja": {
+                    "full": "応用化学科",
+                    "short": [
+                        "応用化学",
+                        "応化"
+                    ]
+                },
+                "history": [
+                    {
+                        "original": "工業化学科"
+                    }
+                ],
+                "code": "AD"
+            },
+            "faculty": {
+                "type": "FacultyData",
+                "id": 1
+            }
+        },
+        {
+            "id": 5,
+            "type": "DepartmentData",
+            "code": "AE",
+            "name": {
+                "original": "電気工学科",
+                "ja": {
+                    "full": "電気工学科",
+                    "short": [
+                        "電気工",
+                        "電気"
+                    ]
+                },
+                "code": "AE"
+            },
+            "faculty": {
+                "type": "FacultyData",
+                "id": 1
+            }
+        },
+        {
+            "id": 6,
+            "type": "DepartmentData",
+            "code": "AF",
+            "name": {
+                "original": "情報通信工学科",
+                "ja": {
+                    "full": "情報通信工学科",
+                    "short": [
+                        "情報通信工",
+                        "通信工",
+                        "情報通信",
+                        "通信"
+                    ]
+                },
+                "history": [
+                    {
+                        "original": "通信工学科"
+                    }
+                ],
+                "code": "AF"
+            },
+            "faculty": {
+                "type": "FacultyData",
+                "id": 1
+            }
+        },
+        {
+            "id": 7,
+            "type": "DepartmentData",
+            "code": "AG",
+            "name": {
+                "original": "電子工学科",
+                "ja": {
+                    "full": "電子工学科",
+                    "short": [
+                        "電子工",
+                        "電子"
+                    ]
+                },
+                "code": "AG"
+            },
+            "faculty": {
+                "type": "FacultyData",
+                "id": 1
+            }
+        },
+        {
+            "id": 8,
+            "type": "DepartmentData",
+            "code": "AH",
+            "name": {
+                "original": "土木工学科",
+                "ja": {
+                    "full": "土木工学科",
+                    "short": [
+                        "土木工",
+                        "土木"
+                    ]
+                },
+                "code": "AH"
+            },
+            "courses": [
+                {
+                    "type": "CourseData",
+                    "id": 1
+                },
+                {
+                    "type": "CourseData",
+                    "id": 2
+                }
+            ],
+            "faculty": {
+                "type": "FacultyData",
+                "id": 1
+            }
+        },
+        {
+            "id": 9,
+            "type": "DepartmentData",
+            "code": "AJ",
+            "name": {
+                "original": "建築学科",
+                "ja": {
+                    "full": "建築学科"
+                },
+                "code": "AJ"
+            },
+            "disused": true,
+            "faculty": {
+                "type": "FacultyData",
+                "id": 1
+            }
+        },
+        {
+            "id": 10,
+            "type": "DepartmentData",
+            "code": "AK",
+            "name": {
+                "original": "建築工学科",
+                "ja": {
+                    "full": "建築工学科"
+                },
+                "code": "AK"
+            },
+            "disused": true,
+            "faculty": {
+                "type": "FacultyData",
+                "id": 1
+            }
+        },
+        {
+            "id": 11,
+            "type": "DepartmentData",
+            "code": "AL",
+            "name": {
+                "original": "情報工学科",
+                "ja": {
+                    "full": "情報工学科",
+                    "short": [
+                        "情報工",
+                        "情報"
+                    ]
+                },
+                "history": [
+                    {
+                        "original": "工業経営学科"
+                    }
+                ],
+                "code": "AL"
+            },
+            "faculty": {
+                "type": "FacultyData",
+                "id": 1
+            }
+        },
+        {
+            "id": 12,
+            "type": "DepartmentData",
+            "code": "BP",
+            "name": {
+                "original": "電子情報システム学科",
+                "ja": {
+                    "full": "電子情報システム工学科",
+                    "short": [
+                        "電子情報システム",
+                        "電子情報",
+                        "電情"
+                    ]
+                },
+                "code": "BP"
+            },
+            "faculty": {
+                "type": "FacultyData",
+                "id": 2
+            }
+        },
+        {
+            "id": 13,
+            "type": "DepartmentData",
+            "code": "BQ",
+            "name": {
+                "original": "機械制御システム学科",
+                "ja": {
+                    "full": "機械制御システム学科",
+                    "short": [
+                        "機械制御システム",
+                        "機械制御",
+                        "機制"
+                    ]
+                },
+                "code": "BQ"
+            },
+            "faculty": {
+                "type": "FacultyData",
+                "id": 2
+            }
+        },
+        {
+            "id": 14,
+            "type": "DepartmentData",
+            "code": "BR",
+            "name": {
+                "original": "環境システム学科",
+                "ja": {
+                    "full": "環境システム学科",
+                    "short": [
+                        "環境システム",
+                        "環シス"
+                    ]
+                },
+                "code": "BR"
+            },
+            "faculty": {
+                "type": "FacultyData",
+                "id": 2
+            }
+        },
+        {
+            "id": 15,
+            "type": "DepartmentData",
+            "code": "BN",
+            "name": {
+                "original": "生命科学科",
+                "ja": {
+                    "full": "生命科学科",
+                    "short": [
+                        "生命科学",
+                        "生命"
+                    ]
+                },
+                "code": "BN"
+            },
+            "courses": [
+                {
+                    "type": "CourseData",
+                    "id": 3
+                },
+                {
+                    "type": "CourseData",
+                    "id": 4
+                }
+            ],
+            "faculty": {
+                "type": "FacultyData",
+                "id": 2
+            }
+        },
+        {
+            "id": 16,
+            "type": "DepartmentData",
+            "code": "BV",
+            "name": {
+                "original": "数理科学科",
+                "ja": {
+                    "full": "数理科学科",
+                    "short": [
+                        "数理科学",
+                        "数理"
+                    ]
+                },
+                "code": "BV"
+            },
+            "faculty": {
+                "type": "FacultyData",
+                "id": 2
+            }
+        },
+        {
+            "id": 17,
+            "type": "DepartmentData",
+            "code": "CY",
+            "name": {
+                "original": "デザイン工学科",
+                "ja": {
+                    "full": "デザイン工学科",
+                    "short": [
+                        "デザイン工",
+                        "デザイン",
+                        "デザ工"
+                    ]
+                },
+                "code": "CY"
+            },
+            "courses": [
+                {
+                    "type": "CourseData",
+                    "id": 5
+                },
+                {
+                    "type": "CourseData",
+                    "id": 6
+                }
+            ],
+            "faculty": {
+                "type": "FacultyData",
+                "id": 3
+            }
+        },
+        {
+            "id": 18,
+            "type": "DepartmentData",
+            "code": "DZ",
+            "name": {
+                "original": "建築学科",
+                "ja": {
+                    "full": "建築学科",
+                    "short": [
+                        "建築"
+                    ]
+                },
+                "code": "DZ"
+            },
+            "courses": [
+                {
+                    "type": "CourseData",
+                    "id": 7
+                },
+                {
+                    "type": "CourseData",
+                    "id": 8
+                },
+                {
+                    "type": "CourseData",
+                    "id": 9
+                }
+            ],
+            "faculty": {
+                "type": "FacultyData",
+                "id": 4
+            }
+        }
+    ],
+    "course": [
+        {
+            "type": "MetaData",
+            "discription": "",
+            "lastId": 9
+        },
+        {
+            "id": 1,
+            "type": "CourseData",
+            "code": "AH_a",
+            "name": {
+                "original": "社会基盤コース",
+                "ja": {
+                    "full": "社会基盤コース"
+                },
+                "code": "AHa"
+            },
+            "disused": true,
+            "department": {
+                "type": "DepartmentData",
+                "id": 8
+            }
+        },
+        {
+            "id": 2,
+            "type": "CourseData",
+            "code": "AH_b",
+            "name": {
+                "original": "社会システムデザイン",
+                "ja": {
+                    "full": "社会システムデザイン"
+                },
+                "code": "AHb"
+            },
+            "disused": true,
+            "department": {
+                "type": "DepartmentData",
+                "id": 8
+            }
+        },
+        {
+            "id": 3,
+            "type": "CourseData",
+            "code": "BN_a",
+            "name": {
+                "original": "生命科学コース",
+                "ja": {
+                    "full": "生命科学コース"
+                },
+                "code": "BNa"
+            },
+            "department": {
+                "type": "DepartmentData",
+                "id": 15
+            }
+        },
+        {
+            "id": 4,
+            "type": "CourseData",
+            "code": "BN_b",
+            "name": {
+                "original": "生命医工学コース",
+                "ja": {
+                    "full": "生命医工学コース"
+                },
+                "code": "BNb"
+            },
+            "department": {
+                "type": "DepartmentData",
+                "id": 15
+            }
+        },
+        {
+            "id": 5,
+            "type": "CourseData",
+            "code": "CY_pp",
+            "name": {
+                "original": "生産・プロダクトデザイン系",
+                "ja": {
+                    "full": "生産・プロダクトデザイン系",
+                    "short": [
+                        "生産・プロダクトデザイン",
+                        "生産・プロダクト",
+                        "生産プロダクト",
+                        "生プロ"
+                    ]
+                },
+                "code": "CYpp"
+            },
+            "department": {
+                "type": "DepartmentData",
+                "id": 17
+            }
+        },
+        {
+            "id": 6,
+            "type": "CourseData",
+            "code": "CY_ri",
+            "name": {
+                "original": "ロボティクス・情報デザイン系",
+                "ja": {
+                    "full": "ロボティクス・情報デザイン系",
+                    "short": [
+                        "ロボティクス・情報デザイン",
+                        "ロボティクス・情報",
+                        "ロボティクス情報",
+                        "ロボ情"
+                    ]
+                },
+                "code": "CYri"
+            },
+            "department": {
+                "type": "DepartmentData",
+                "id": 17
+            }
+        },
+        {
+            "id": 7,
+            "type": "CourseData",
+            "code": "DZ_ap",
+            "name": {
+                "original": "先進的プロジェクトデザインコース",
+                "ja": {
+                    "full": "先進的プロジェクトデザインコース"
+                },
+                "code": "AP"
+            },
+            "department": {
+                "type": "DepartmentData",
+                "id": 18
+            }
+        },
+        {
+            "id": 8,
+            "type": "CourseData",
+            "code": "DZ_sa",
+            "name": {
+                "original": "空間・建築デザインコース",
+                "ja": {
+                    "full": "空間・建築デザインコース"
+                },
+                "code": "SA"
+            },
+            "department": {
+                "type": "DepartmentData",
+                "id": 18
+            }
+        },
+        {
+            "id": 9,
+            "type": "CourseData",
+            "code": "DZ_ua",
+            "name": {
+                "original": "都市・建築デザインコース",
+                "ja": {
+                    "full": "都市・建築デザインコース"
+                },
+                "code": "UA"
+            },
+            "department": {
+                "type": "DepartmentData",
+                "id": 18
+            }
+        }
+    ]
+}
