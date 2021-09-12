@@ -5,7 +5,7 @@ const app = express();
 console.log("SITAPP server.js started: ver.0.0.1");
 
 const server = app.listen(3000, async () => {
-    console.log(`Node.js is listening to PORT: ${server.address().port}`);
+    console.log(`Node.js1 is listening to PORT: ${server.address().port}`);
 });
 
 app.get("/", (request, response) => {
