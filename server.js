@@ -2,11 +2,13 @@ const express = require("express");
 const fs = require("fs");
 const app = express();
 
+console.log("SITAPP server.js started: ver.0.0.1");
+
 const server = app.listen(3000, async () => {
     console.log(`Node.js is listening to PORT: ${server.address().port}`);
 });
 
-server.get("/", (request, response) => {
+app.get("/", (request, response) => {
     console.log("requested:", request);
 
     let data;
